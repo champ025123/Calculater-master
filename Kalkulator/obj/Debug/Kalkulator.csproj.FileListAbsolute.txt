@@ -1,0 +1,12 @@
+c:\users\alf\documents\visual studio 2015\Projects\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe.config
+C:\Users\Alf\Documents\Visual Studio 2015\Projects\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe
+C:\Users\Alf\Documents\Visual Studio 2015\Projects\Kalkulator\Kalkulator\bin\Debug\Kalkulator.pdb
+C:\Users\Alf\Documents\Visual Studio 2015\Projects\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csprojResolveAssemblyReference.cache
+C:\Users\Alf\Documents\Visual Studio 2015\Projects\Kalkulator\Kalkulator\obj\Debug\Kalkulator.Form1.resources
+C:\Users\Alf\Documents\Visual Studio 2015\Projects\Kalkulator\Kalkulator\obj\Debug\Kalkulator.Properties.Resources.resources
+C:\Users\Alf\Documents\Visual Studio 2015\Projects\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.GenerateResource.Cache
+C:\Users\Alf\Documents\Visual Studio 2015\Projects\Kalkulator\Kalkulator\obj\Debug\Kalkulator.exe
+C:\Users\Alf\Documents\Visual Studio 2015\Projects\Kalkulator\Kalkulator\obj\Debug\Kalkulator.pdb
+C:\Users\Champ27\Downloads\Calculater-master\Kalkulator\bin\Debug\Kalkulator.exe.config
+C:\Users\Champ27\Downloads\Calculater-master\Kalkulator\obj\Debug\Kalkulator.exe
+C:\Users\Champ27\Downloads\Calculater-master\Kalkulator\obj\Debug\Kalkulator.pdb
